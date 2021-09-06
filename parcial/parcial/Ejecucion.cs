@@ -132,13 +132,13 @@ namespace parcial
                 switch (input)
                 {
                     case "1":
-                        registrarse(); 
+                        registrarse();
                         break;
                     case "2":
                         Console.WriteLine("Los archivos se generaon con exito ");
                         break;
                     case "3":
-                   
+
                         break;
 
                     case "4":
@@ -158,11 +158,11 @@ namespace parcial
                 string input = Console.ReadLine();
                 switch (input)
                 {
-                   
+
                     case "1":
-                       
+
                         break;
-                   
+
 
                     case "2":
                         break;
@@ -182,6 +182,25 @@ namespace parcial
 
 
 
+            }
+        }
+        private static void borrardocumento()
+        {
+            {
+                Console.WriteLine("funcion para eliminar archivo.");
+                string nombre = Console.ReadLine();
+                bool result = File.Exists(getPath());
+                if (result == true)
+                {
+                    Console.WriteLine("el archivo existe.");
+                    File.Delete(getPath());
+                    Console.WriteLine("exito al borrar el archivo.");
+                    Console.ReadKey();
+                }
+                else
+                {
+                    Console.WriteLine("no se pudo encontrar el archivo.");
+                }
             }
         }
     }
