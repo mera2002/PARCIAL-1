@@ -40,7 +40,7 @@ namespace parcial
 
                 using (StreamWriter Audali = File.AppendText(archivo2))
                 {
-                    Audali.WriteLine("");
+                    Audali.WriteLine("En esta asignatura e podido apreder muchas nuevas, por ejemplo como manipular visual studio, usar git entre otrasa cosas, en algunas ocaciones e rtenido inconvenientes para enteder ciertos comandos pero gracias a la ingeniera e podido resolver muchas dudas ");
 
                 }
                 string archivo3 = (@"C:\PARCIAL1\Libreria\Wilber.text");

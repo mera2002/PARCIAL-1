@@ -18,3 +18,13 @@ C:\PARCIAL1\parcial\parcial\obj\Debug\parcial.csproj.CoreCompileInputs.cache
 C:\PARCIAL1\parcial\parcial\obj\Debug\parcial.csproj.CopyComplete
 C:\PARCIAL1\parcial\parcial\obj\Debug\parcial.exe
 C:\PARCIAL1\parcial\parcial\obj\Debug\parcial.pdb
+C:\PARCIAL-1\parcial\parcial\bin\Debug\parcial.exe.config
+C:\PARCIAL-1\parcial\parcial\bin\Debug\parcial.exe
+C:\PARCIAL-1\parcial\parcial\bin\Debug\parcial.pdb
+C:\PARCIAL-1\parcial\parcial\bin\Debug\Libreria.dll
+C:\PARCIAL-1\parcial\parcial\bin\Debug\Libreria.pdb
+C:\PARCIAL-1\parcial\parcial\obj\Debug\parcial.csproj.AssemblyReference.cache
+C:\PARCIAL-1\parcial\parcial\obj\Debug\parcial.csproj.CoreCompileInputs.cache
+C:\PARCIAL-1\parcial\parcial\obj\Debug\parcial.csproj.CopyComplete
+C:\PARCIAL-1\parcial\parcial\obj\Debug\parcial.exe
+C:\PARCIAL-1\parcial\parcial\obj\Debug\parcial.pdb

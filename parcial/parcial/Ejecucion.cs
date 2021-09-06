@@ -177,14 +177,58 @@ namespace parcial
 
             {
 
-
-
-
-
-
             }
         }
+
+
+        private static void Leer()
+        {
+            Console.WriteLine("           ");
+            Console.WriteLine("Seleccione el archivo que desea leer ");
+            Console.WriteLine("1. Merary");
+            Console.WriteLine("2. Audali");
+            Console.WriteLine("3. Wilber");
+            Console.WriteLine("4. Luis");
+            Console.WriteLine("6. Salir");
+            Console.Write("\nOpcion: ");
+            string input = Console.ReadLine();
+            switch (input)
+            {
+                case "1":
+                    Console.WriteLine("SMIS072121" + "En este computo aprendi mucho, en especial en esta materia (progrmacion I)"
+                        + "Mis conocimientos en programacion eran pocos, ahora con todo lo que me han enseñado puedo decir que,"
+                        + "estoy satisfecha, ya que no solo obtuve nuevos conociemientos, tambien pude superar las dificultades"
+                        + "ya que, en algunas tareas se me hizo un poco complicado, pero estar en la clase y buscar otros medios de informacion me ayudo mucho ");
+                    break;
+                case "2":
+                    Console.WriteLine("En esta asignatura e podido apreder muchas nuevas, por ejemplo como manipular visual studio, usar git entre otrasa cosas, en algunas ocaciones e rtenido inconvenientes para enteder ciertos comandos pero gracias a la ingeniera e podido resolver muchas dudas ");
+
+                    break;
+                case "3":
+                    Console.WriteLine("SMIS058221" + "Siento que una de las mayores dificultades en este parcial fue la creación de códigos y que estos funcionen correctamente ya que al no funcionar seria de crearlos nuevamente haciendo así el consumo de bastante tiempo realizando los nuevos códigos para que estos funcionen por eso siento que la creación de códigos fue lo mas complicado");
+                    break;
+                case "4":
+
+                    break;
+                case "5":
+
+                    break;
+
+
+                case "6":
+                    break;
+                default:
+                    break;
+            }
+
+        }
+
+
+
     }
+
+
+
 }
 
 
@@ -192,4 +236,4 @@ namespace parcial
 
 
 
-    
+
