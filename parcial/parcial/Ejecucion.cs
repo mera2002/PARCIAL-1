@@ -209,18 +209,15 @@ namespace parcial
                     break;
                 case "4":
 
+                    Console.WriteLine("Un excelente curso profesional, entendí muchos conceptos que nunca entendí y otros códigos.");
+
                     break;
+
                 case "5":
 
-                    break;
-
-
-                case "6":
-                    break;
                 default:
                     break;
             }
-
         }
 
 
